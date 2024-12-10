@@ -1,0 +1,15 @@
+﻿  raudio.c
+C:\Users\famil\OneDrive\Desktop\Tilegame\raylib-master\src\external\jar_xm.h(242,9): warning C4005: 'DEBUG': macro redefinition
+  (compiling source file '../raylib-master/src/raudio.c')
+      C:\Users\famil\OneDrive\Desktop\Tilegame\raylib-master\src\external\jar_xm.h(242,9):
+      'DEBUG' previously declared on the command line
+  
+  rcore.c
+  rglfw.c
+  rmodels.c
+  rshapes.c
+  rtext.c
+  rtextures.c
+  utils.c
+  Generating Code...
+  raylib.vcxproj -> C:\Users\famil\OneDrive\Desktop\Tilegame\_bin\Debug\raylib.lib

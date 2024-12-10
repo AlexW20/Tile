@@ -1,0 +1,136 @@
+﻿  background.cpp
+  controller.cpp
+  enemyEntity.cpp
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '../tiltgame/src/controller.cpp')
+  
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '../tiltgame/src/controller.cpp')
+  
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\controller.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '../tiltgame/src/controller.cpp')
+  
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\controller.cpp(42,39): error C2065: 'damage': undeclared identifier
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\controller.cpp(110,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\controller.cpp(111,50): error C2065: 'upgrade': undeclared identifier
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\enemyEntity.cpp(108,66): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\enemyEntity.cpp(108,66): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\enemyEntity.cpp(108,79): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\enemyEntity.cpp(108,79): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  entity.cpp
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\entity.cpp(9,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\entity.cpp(10,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  gameView.cpp
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '../tiltgame/src/gameView.cpp')
+  
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(34,6): error C2065: 'damage': undeclared identifier
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(79,65): error C2065: 'jerry': undeclared identifier
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(99,16): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(99,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(100,14): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(100,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(101,9): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(101,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(102,9): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(102,9): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(138,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(138,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(147,143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(147,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(148,146): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(148,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(155,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(155,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(162,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(162,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(162,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(165,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\gameView.cpp(165,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  playerEntity.cpp
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\playerEntity.cpp(66,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\playerEntity.cpp(67,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\playerEntity.cpp(73,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\playerEntity.cpp(76,8): error C2065: 'damage': undeclared identifier
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\playerEntity.cpp(77,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\playerEntity.cpp(76,8): error C2051: case expression not constant
+  pubSub.cpp
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\pubSub.cpp(31,14): error C2601: 'PubSub::unsubscribe': local function definitions are illegal
+      C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\pubSub.cpp(20,1):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\pubSub.cpp(20,1): error C1075: '{': no matching token found
+  textures.cpp
+  damage.cpp
+  health.cpp
+  movement.cpp
+  portalEntity.cpp
+  range.cpp
+  world.cpp
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(34,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(34,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(34,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(34,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(37,107): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(37,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(37,132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(37,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(40,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(40,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(40,117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(40,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(43,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(43,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(43,132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(43,108): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(50,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(52,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(138,74): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(138,74): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(138,95): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(138,95): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(139,77): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(139,77): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(139,99): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(139,99): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(166,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(166,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(179,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(179,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(182,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(182,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(185,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(185,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(187,7): error C2065: 'damage': undeclared identifier
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(188,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(188,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(191,16): error C2061: syntax error: identifier 'movement'
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(187,7): error C2051: case expression not constant
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(211,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(211,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(230,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\world.cpp(230,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  worldView.cpp
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file '../tiltgame/src/worldView.cpp')
+  
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(17,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(17,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(17,36): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(17,36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(21,31): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(21,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(21,44): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(21,44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(28,44): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(28,44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(40,30): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(40,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(40,36): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(40,36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(44,31): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(44,31): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(44,44): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\Tilegame\tiltgame\src\worldView.cpp(44,44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
